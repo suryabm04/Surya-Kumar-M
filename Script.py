@@ -405,12 +405,12 @@ CONTACT_TEXT = "🙇 CONTACT THE <a href='https://t.me/suryabm04'>Owner</a> TO G
     SETTING_TXT = """    
 # <u>SETTINGS</u> :
 
-# - ꜱᴇᴛᴛɪɴɢꜱ ɪꜱ ᴛʜᴇ ᴍᴏꜱᴛ ɪᴍᴘᴏʀᴛᴀɴᴛ ꜰᴇᴀᴛᴜʀᴇ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ.
-# - ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ᴄᴜꜱᴛᴏᴍɪᴢᴇ ᴛʜɪꜱ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+# - SETTINGS IS THE MOST IMPORTANT FEATURE OF THIS BOT.
+# - YOU CAN EASILY CUSTOMIZE THIS BOT FOR YOUR GROUP.
 
-# <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ</u> :
- /settings - CHANGE THE GROUP SETTINGS AS YOUR WISH
- /set_shortner - ꜱᴇᴛ ʏᴏᴜʀ 1ꜱᴛ ꜱʜᴏʀᴛɴᴇʀ.
+# <u>AVAILABLE COMMANDS</u> :
+# /settings - CHANGE THE GROUP SETTINGS AS YOUR WISH
+# /set_shortner - ꜱᴇᴛ ʏᴏᴜʀ 1ꜱᴛ ꜱʜᴏʀᴛɴᴇʀ.
 # /set_shortner_2 - ꜱᴇᴛ ʏᴏᴜʀ 2ɴᴅ ꜱʜᴏʀᴛɴᴇʀ.
 # /set_shortner_3 - ꜱᴇᴛ ʏᴏᴜʀ 3ʀᴅ ꜱʜᴏʀᴛɴᴇʀ.
 # /set_tutorial - ꜱᴇᴛ ʏᴏᴜʀ 1ꜱᴛ ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ .
