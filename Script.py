@@ -378,8 +378,7 @@ IF YOU FACE ANY PROBLEM, TAKE A SCREENSHOT AND SEND IT TO - {os.environ.get("SUP
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-🙇 CONTACT THE <a href='https://t.me/suryakumarm46'>Owner</a> TO GET YOUR TRIAL.
-
+CONTACT_TEXT = "🙇 CONTACT THE <a href='https://t.me/suryabm04'>Owner</a> TO GET YOUR TRIAL."
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
 
@@ -402,8 +401,7 @@ IF YOU FACE ANY PROBLEM, TAKE A SCREENSHOT AND SEND IT TO - {os.environ.get("SUP
 
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
-This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com>Surya</a>\n """
+SOURCE_TXT = "SOURCE CODE HERE ʘ> :<a href='https://github.com/surya/'>Surya</a>"
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
