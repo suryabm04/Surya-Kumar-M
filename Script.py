@@ -403,7 +403,8 @@ CONTACT_TEXT = "🙇 CONTACT THE <a href='https://t.me/suryabm04'>Owner</a> TO G
  href='https://github.com/surya/'>Surya</a>"
 
     SETTING_TXT = """    
-<u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
+# <u>SETTINGS</u> :
+
 - ꜱᴇᴛᴛɪɴɢꜱ ɪꜱ ᴛʜᴇ ᴍᴏꜱᴛ ɪᴍᴘᴏʀᴛᴀɴᴛ ꜰᴇᴀᴛᴜʀᴇ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ.
 - ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ᴄᴜꜱᴛᴏᴍɪᴢᴇ ᴛʜɪꜱ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
